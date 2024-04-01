@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collision
+  - Enemigo
+  - NPC
+  - Light
+  - Statue
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 1935164391
+    locked: 0
+  - name: Background
+    uniqueID: 2815187517
+    locked: 0
+  - name: BackgroundUP
+    uniqueID: 42431155
+    locked: 0
+  - name: CollisionBack
+    uniqueID: 3106861943
+    locked: 0
+  - name: CollisionLayer
+    uniqueID: 576106021
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 95570711
+    locked: 0
+  - name: CollisionLayer2
+    uniqueID: 2404804527
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Details
+    uniqueID: 1733521013
+    locked: 0
+  - name: NPC
+    uniqueID: 1142037551
+    locked: 0
+  - name: Player
+    uniqueID: 3904299051
+    locked: 0
+  - name: Proyectil
+    uniqueID: 3798218827
+    locked: 0
+  - name: Collider - Detail - Superior
+    uniqueID: 4135748679
+    locked: 0
+  - name: DetailsSuperior
+    uniqueID: 871040847
+    locked: 0
+  - name: DetailsSuperior2
+    uniqueID: 1224322321
+    locked: 0
+  - name: Objetos de Hierarchy
+    uniqueID: 1138663041
+    locked: 0
+  - name: UI
+    uniqueID: 752486681
+    locked: 0

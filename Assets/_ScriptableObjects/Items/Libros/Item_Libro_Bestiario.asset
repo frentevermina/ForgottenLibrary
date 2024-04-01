@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6edd863a04ecc774b987e9810876ae39, type: 3}
+  m_Name: Item_Libro_Bestiario
+  m_EditorClassIdentifier: 
+  ID: LibroBestiario
+  Nombre: Bestiario del Otro Lado
+  Icono: {fileID: -2083890262, guid: f824de00e14807a4e98aa86d7570f3eb, type: 3}
+  Descripcion: "Un compendio de criaturas de lo que llaman el Otro Lado.\n\nUna criatura
+    te llama especialmente la atenci\xF3n:\n\nEl Cazador, una criatura que acecha
+    a su presa y con su boca retractil absorve el cerebro de su v\xEDctima."
+  Tipo: 3
+  EsConsumible: 1
+  EsAcumulable: 0
+  AcumulacionMax: 1
+  Cantidad: 0
+  Esoterismo: 0
+  Ocultismo: 1
+  Medicina: 0
+  Buscar: 0

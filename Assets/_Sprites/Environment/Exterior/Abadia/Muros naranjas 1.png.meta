@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: e2f554ee675478841b4d096a96b21ee4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Muros naranjas 1_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29482e4ff9729a543837d99cbfada3e3
+      internalID: -1295588047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muros naranjas 1_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846cdce8887bcf049b2f6ffe91b13428
+      internalID: 615000284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muros naranjas 1_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d545e43110eeca94cb1e42aef2c93cdb
+      internalID: -214225861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Muros naranjas 1_39: -344636141
+      Muros naranjas 1_33: -1164678678
+      Muros naranjas 1_10: 473534535
+      Muros naranjas 1_35: 458754319
+      Muros naranjas 1_3: -1144001170
+      Muros naranjas 1_38: 405349214
+      Muros naranjas 1_1: -639500405
+      Muros naranjas 1_21: -1021493326
+      Muros naranjas 1_32: 1858078486
+      Muros naranjas 1_17: -18041213
+      Muros naranjas 1_16: -258683079
+      Muros naranjas 1_19: -1703700231
+      Muros naranjas 1_49: 1370157766
+      Muros naranjas 1_18: 284488954
+      Muros naranjas 1_50: -1333957294
+      Muros naranjas 1_20: 1795403395
+      Muros naranjas 1_4: 1892670592
+      Muros naranjas 1_51: -1897605966
+      Muros naranjas 1_40: 615000284
+      Muros naranjas 1_2: 126563108
+      Muros naranjas 1_46: 2135764436
+      Muros naranjas 1_34: -439985627
+      Muros naranjas 1_36: -56760156
+      Muros naranjas 1_29: 1077789461
+      Muros naranjas 1_27: -483274250
+      Muros naranjas 1_5: 1510011718
+      Muros naranjas 1_28: 2019942714
+      Muros naranjas 1_11: -1874032014
+      Muros naranjas 1_43: -1079681014
+      Muros naranjas 1_12: 851817948
+      Muros naranjas 1_45: 1565508949
+      Muros naranjas 1_14: -269382339
+      Muros naranjas 1_53: 185493755
+      Muros naranjas 1_54: -1597570506
+      Muros naranjas 1_24: 2137234694
+      Muros naranjas 1_13: 1598398622
+      Muros naranjas 1_9: -1235259959
+      Muros naranjas 1_8: 932279016
+      Muros naranjas 1_0: -1211055426
+      Muros naranjas 1_44: -214225861
+      Muros naranjas 1_26: -1295588047
+      Muros naranjas 1_42: 841391535
+      Muros naranjas 1_41: -648787108
+      Muros naranjas 1_7: 689933
+      Muros naranjas 1_52: -725191931
+      Muros naranjas 1_47: -196244403
+      Muros naranjas 1_48: 227432389
+      Muros naranjas 1_6: -1724403511
+      Muros naranjas 1_15: 1502571246
+      Muros naranjas 1_31: 1595463693
+      Muros naranjas 1_23: 116568744
+      Muros naranjas 1_25: -744836727
+      Muros naranjas 1_37: 1101761433
+      Muros naranjas 1_22: 1992116712
+      Muros naranjas 1_30: 712156931
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

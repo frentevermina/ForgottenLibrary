@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a5d5382a74d3b544bb8b2427e4e88dd, type: 3}
+  m_Name: Quest1_1
+  m_EditorClassIdentifier: 
+  Nombre: Bienvenido
+  ID: Quest1
+  CantidadObjetivo: 1
+  ItemReferencia: {fileID: 626333750, guid: f824de00e14807a4e98aa86d7570f3eb, type: 3}
+  Objetivo: "Entra en la mansi\xF3n"
+  Descripcion: "Encuentra la manera de entrar a la Mansi\xF3n y acabar con las pruebas
+    del irritante coleccionista."
+  RecompensaExp: 50
+  RecompensaItem:
+    Item: {fileID: 11400000, guid: a72721c6ac8731c4ab1cb3634ad6ce79, type: 2}
+    Cantidad: 1
+  CantidadActual: 0
+  QuestCompletadaCheck: 0
